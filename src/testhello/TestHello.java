@@ -18,6 +18,7 @@ public class TestHello {
         System.out.println("Hello, World");
         System.out.println("Welcome to Thailland");
         System.out.println("Have a Good Trip");
+        System.out.printlm("Wait a Minute");
     }
     
 }
